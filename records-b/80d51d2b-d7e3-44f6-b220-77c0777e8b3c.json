@@ -1,0 +1,69 @@
+{
+  "recordId": "80d51d2b-d7e3-44f6-b220-77c0777e8b3c",
+  "triageLevel": {
+    "value": "unknown",
+    "source": "manual"
+  },
+  "location": {
+    "type": "none",
+    "lat": null,
+    "lon": null,
+    "address": null,
+    "timestamp": null
+  },
+  "conversationStart": "2026-09-11T01:38:12.783Z",
+  "conversationEnd": null,
+  "lastUpdated": "2026-09-11T01:38:55.974Z",
+  "shareWithAnyNearbyDevice": true,
+  "flags": [
+    {
+      "field": "triageLevel",
+      "lockedValue": "unknown",
+      "lockedSource": "manual",
+      "conflictingValue": "immediate",
+      "detectedAt": "2026-09-11T01:38:55.974Z",
+      "status": "open"
+    }
+  ],
+  "transcriptRef": "./records/80d51d2b-d7e3-44f6-b220-77c0777e8b3c.transcript.jsonl",
+  "name": {
+    "value": "Sarah",
+    "source": "ai_draft"
+  },
+  "nationality": {
+    "value": "Canadian",
+    "source": "ai_draft"
+  },
+  "residencyStatus": {
+    "value": "tourist",
+    "source": "ai_draft"
+  },
+  "groupStatus": {
+    "value": "alone",
+    "source": "ai_draft"
+  },
+  "helpDestinationIntent": {
+    "value": "stay_here",
+    "source": "ai_draft"
+  },
+  "statusDetail": {
+    "value": "Tourist from Canada, reports broken arm and penicillin allergy, blood type O-",
+    "source": "ai_draft"
+  },
+  "emotionalState": {
+    "value": "distressed",
+    "source": "ai_draft"
+  },
+  "allergies": {
+    "value": "penicillin",
+    "source": "ai_draft"
+  },
+  "bloodType": {
+    "value": "negative",
+    "source": "ai_draft"
+  },
+  "emergencyContactName": {
+    "value": "Sarah",
+    "source": "ai_draft"
+  }
+}
