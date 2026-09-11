@@ -1,0 +1,57 @@
+{
+  "recordId": "8d379345-e2e1-4041-acd0-30b5fa7394c8",
+  "triageLevel": {
+    "value": "unknown",
+    "source": "manual"
+  },
+  "location": {
+    "type": "none",
+    "lat": null,
+    "lon": null,
+    "address": null,
+    "timestamp": null
+  },
+  "conversationStart": "2026-09-11T07:20:06.128Z",
+  "conversationEnd": null,
+  "lastUpdated": "2026-09-11T07:24:50.045Z",
+  "shareWithAnyNearbyDevice": true,
+  "flags": [
+    {
+      "field": "triageLevel",
+      "lockedValue": "unknown",
+      "lockedSource": "manual",
+      "conflictingValue": "immediate",
+      "detectedAt": "2026-09-11T07:24:50.040Z",
+      "status": "open"
+    }
+  ],
+  "transcriptRef": "./records/8d379345-e2e1-4041-acd0-30b5fa7394c8.transcript.jsonl",
+  "name": {
+    "value": "Sarah",
+    "source": "ai_draft"
+  },
+  "nationality": {
+    "value": "Canadian",
+    "source": "ai_draft"
+  },
+  "residencyStatus": {
+    "value": "tourist",
+    "source": "ai_draft"
+  },
+  "statusDetail": {
+    "value": "Sarah is a tourist from Canada who believes her arm is broken and is experiencing pain. She requires immediate assistance and has mentioned an allergy to penicillin and her blood type is negative.",
+    "source": "ai_draft"
+  },
+  "emotionalState": {
+    "value": "distressed",
+    "source": "ai_draft"
+  },
+  "allergies": {
+    "value": "penicillin",
+    "source": "ai_draft"
+  },
+  "bloodType": {
+    "value": "negative",
+    "source": "ai_draft"
+  }
+}

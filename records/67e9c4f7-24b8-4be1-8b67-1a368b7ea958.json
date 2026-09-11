@@ -1,0 +1,53 @@
+{
+  "recordId": "67e9c4f7-24b8-4be1-8b67-1a368b7ea958",
+  "triageLevel": {
+    "value": "unknown",
+    "source": "manual"
+  },
+  "location": {
+    "type": "address",
+    "lat": null,
+    "lon": null,
+    "address": "santiago de chile, plaza de espana",
+    "timestamp": "2026-09-11T09:24:27.801Z"
+  },
+  "conversationStart": "2026-09-11T09:28:18.316Z",
+  "conversationEnd": null,
+  "lastUpdated": "2026-09-11T09:29:03.943Z",
+  "shareWithAnyNearbyDevice": true,
+  "flags": [
+    {
+      "field": "triageLevel",
+      "lockedValue": "unknown",
+      "lockedSource": "manual",
+      "conflictingValue": "immediate",
+      "detectedAt": "2026-09-11T09:29:03.943Z",
+      "status": "open"
+    }
+  ],
+  "transcriptRef": "./records/67e9c4f7-24b8-4be1-8b67-1a368b7ea958.transcript.jsonl",
+  "name": {
+    "value": "Sarah",
+    "source": "ai_draft"
+  },
+  "nationality": {
+    "value": "Canadian",
+    "source": "ai_draft"
+  },
+  "residencyStatus": {
+    "value": "tourist",
+    "source": "ai_draft"
+  },
+  "statusDetail": {
+    "value": "Sarah is a tourist from Canada who believes her arm is broken and is experiencing pain. She requires assistance and has mentioned an allergy to penicillin and her blood type is negative.",
+    "source": "ai_draft"
+  },
+  "allergies": {
+    "value": "penicillin",
+    "source": "ai_draft"
+  },
+  "bloodType": {
+    "value": "negative",
+    "source": "ai_draft"
+  }
+}
